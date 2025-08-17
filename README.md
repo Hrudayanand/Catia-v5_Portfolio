@@ -2,6 +2,7 @@
 
 3D CAD Design of Mechanical System and Components
 
+Modules shown:
 1. Part Design
 2. Assembly Design
 3. Generative Shape Design
