@@ -6,3 +6,4 @@ Modules shown:
 1. Part Design
 2. Assembly Design
 
+File "CATIA_Portfolio" has detailed info about the models for the above modules. 
